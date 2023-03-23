@@ -1,5 +1,5 @@
 # Informacion Personal
-## -Soy *Gomez Agustin*
+##  Soy *Gomez Agustin*
    - Tengo 21 años
    - Mi legajo en la facultad UTN-FRD es 11748
    - En mis tiempos libres me gusta jugar al basquet
